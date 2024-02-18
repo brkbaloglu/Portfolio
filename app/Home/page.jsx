@@ -24,7 +24,7 @@ function HomePage() {
             />
           </span>
         </h3>
-        <Link href="/#portfolio" className='group flex items-center justify-center mt-2 px-4 py-2 border-[2.5px]  border-white rounded-xl text-white hover:text-purple-600 hover:bg-white text-xl'>My Portfolio <IoIosArrowForward className='group-hover:rotate-90 duration-300 ml-2'/></Link>
+        <Link href="/#projects" className='group flex items-center justify-center mt-2 px-4 py-2 border-[2.5px]  border-white rounded-xl text-white hover:text-purple-600 hover:bg-white text-xl'>My Portfolio <IoIosArrowForward className='group-hover:rotate-90 duration-300 ml-2'/></Link>
       </div>
       <div className=''></div>
     </div>
